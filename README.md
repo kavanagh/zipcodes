@@ -3,6 +3,8 @@ zipcodes
 
 A tiny zip code lookup service.
 
+[Demo](http://zipcodelookup.herokuapp.com/v1/zip/90210)
+
 ## Usage
 
 **GET `/v1/zip/:zipcode`:** Look up details for a given zip code.
