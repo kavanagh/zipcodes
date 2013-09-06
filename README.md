@@ -1,7 +1,7 @@
 zipcodes
 ========
 
-A tiny zip code service.
+A tiny zip code lookup service.
 
 ## Usage
 
