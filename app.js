@@ -19,10 +19,6 @@ app.configure('development', function () {
   app.use(express.logger('dev'));
 });
 
-app.configure('production', function () {
-  app.use(express.logger());
-});
-
 app.configure(function () {
 
   // Response is so small at the moment that gzipping makes it bigger
