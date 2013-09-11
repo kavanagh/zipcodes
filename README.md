@@ -30,8 +30,8 @@ Example Response for the zipcode '90210'.
 Written in node. Deploys to heroku.
 
 ```bash
-$ clone https://github.com/kavanagh/zipcodes.git
+$ git clone https://github.com/kavanagh/zipcodes.git
 $ cd zipcodes
 $ heroku create
-$ push heroku master
+$ git push heroku master
 ```
