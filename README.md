@@ -1,7 +1,7 @@
 zipcodes
 ========
 
-A tiny zip code lookup service.
+A tiny zip code lookup service. Returns FIPS codes for a given zip.
 
 [Demo](http://zipcodelookup.herokuapp.com/v1/zip/90210)
 
