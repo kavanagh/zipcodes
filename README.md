@@ -1,7 +1,7 @@
 zipcodes
 ========
 
-A tiny zip code lookup service.
+A tiny zip code lookup service. Returns FIPS codes for a given zip.
 
 [Demo](http://zipcodelookup.herokuapp.com/v1/zip/90210)
 
@@ -30,9 +30,9 @@ Example Response for the zipcode '90210'.
 Written in node. Deploys to heroku.
 
 ```bash
-$ clone https://github.com/kavanagh/zipcodes.git
+$ git clone https://github.com/kavanagh/zipcodes.git
 $ cd zipcodes
 $ heroku create
-$ push heroku master
+$ git push heroku master
 ```
 .
