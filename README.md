@@ -35,4 +35,3 @@ $ cd zipcodes
 $ heroku create
 $ git push heroku master
 ```
-.
